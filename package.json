@@ -1,8 +1,8 @@
 {
-  "name": "Test-Repo-Template",
+  "name": "TestRepoTemplate",
   "version": "0.0.1",
   "description": "React Native Template Repo",
   "repository": "git@github.com:abduliOS/TestRepoTemplate.git",
-  "author": "Abdul Sathar <abdul.embedded@gmail.com>",
+  "author": "Royal Cyber",
   "license": "MIT"
 }
